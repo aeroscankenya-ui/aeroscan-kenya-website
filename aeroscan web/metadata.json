@@ -1,0 +1,6 @@
+{
+  "name": "Aero Scan Kenya",
+  "description": "Building Africa's Digital Future. Connected technology. Intelligent platforms. Real-world solutions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
